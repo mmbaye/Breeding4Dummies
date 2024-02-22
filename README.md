@@ -30,8 +30,7 @@ In summary, when the Vapor Pressure Deficit is high, the dry air pulls moisture 
 
 3. **Agricultural Drought**:
 Agricultural drought in the context of plant breeding refers to a condition where there is a **lack of water available** for crops to grow and develop properly. It occurs when the amount of rainfall or irrigation water is insufficient to meet the water requirements of the plants. This shortage of water can negatively affect the growth, yield, and health of crops, making it difficult for farmers to grow and harvest their crops successfully. Plant breeders work to develop new crop varieties that are more resilient to drought conditions, meaning they can tolerate and survive with less water. By improving the drought tolerance of crops, plant breeders help farmers minimize the negative effects of drought and ensure a more stable food production.
-Definition From Vincent Vadez et al 2024. ![](https://www.connectedpapers.com/main/8093ee123ef5f251f845e56debae1be8eda83df9/Crop-traits-and-production-under-drought/graph)
-
+Definition From Vincent Vadez et al 2024.
 • **Severe** (or survival) drought: when the growth processes stop because the crop can no longer extract water from the soil. If a severe drought occurs before grain filling stage, most crops fail and reach zero yield.
 • **Seedling stage drought**: when the crop is planted in a dry soil or after a first rain, and is followed by a gap in rainfall of 2–4 weeks.
 • **Moderate drought**:when growth processes continue at a reduced rate, because the crop cannot extract all the water it needs. Depending on the timing, duration and frequency of occurrence during the crop cycle, the yield reductions can be 30–70%.
