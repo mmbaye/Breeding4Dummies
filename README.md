@@ -18,7 +18,7 @@ However, it is important to note that genomic selection requires a comprehensive
 1. **QTL** 
 A quantitative trait locus (QTL) refers to a specific region on a plant's chromosome that is associated with a particular trait or characteristic. These traits are typically quantitative, meaning they can be measured and vary in degree, such as plant height, yield, or resistance to disease.
 A QTL is like a signpost that indicates the general location of a gene or a set of genes responsible for controlling the trait of interest. By studying the DNA of plants and looking for variations in the genetic code, plant breeders can identify these QTLs and understand which regions of the genome are linked to specific traits.
-Once a QTL is identified, plant breeders can use this information to develop new plant varieties with desired characteristics. They can selectively breed plants that have the desired QTLs, allowing them to enhance traits like yield, quality, or disease resistance. This knowledge helps breeders make informed decisions about which plants to cross and which traits to prioritize in their breeding programs.
+Once a QTL is identified, plant breeders can use this information to develop new plant varieties with desired characteristics. They can selectively breed plants with the desired QTLs, allowing them to enhance traits like yield, quality, or disease resistance. This knowledge helps breeders make informed decisions about which plants to cross and which traits to prioritize in their breeding programs.
 In summary, a QTL in plant breeding is a specific region on a plant's chromosome associated with a quantitative trait. It serves as a marker that helps plant breeders understand the genetic basis of traits and design breeding strategies to develop plants with desired characteristics.
 
 2. **VPD : Vapor Pressure Deficit**
@@ -30,7 +30,14 @@ In summary, when the Vapor Pressure Deficit is high, the dry air pulls moisture 
 
 3. **Agricultural Drought**:
 Agricultural drought in the context of plant breeding refers to a condition where there is a **lack of water available** for crops to grow and develop properly. It occurs when the amount of rainfall or irrigation water is insufficient to meet the water requirements of the plants. This shortage of water can negatively affect the growth, yield, and health of crops, making it difficult for farmers to grow and harvest their crops successfully. Plant breeders work to develop new crop varieties that are more resilient to drought conditions, meaning they can tolerate and survive with less water. By improving the drought tolerance of crops, plant breeders help farmers minimize the negative effects of drought and ensure a more stable food production.
+Definition From Vincent Vadez et al 2024. ![](https://www.connectedpapers.com/main/8093ee123ef5f251f845e56debae1be8eda83df9/Crop-traits-and-production-under-drought/graph)
 
+• **Severe** (or survival) drought: when the growth processes stop because the crop can no longer extract water from the soil. If a severe drought occurs before grain filling stage, most crops fail and reach zero yield.
+• **Seedling stage drought**: when the crop is planted in a dry soil or after a first rain, and is followed by a gap in rainfall of 2–4 weeks.
+• **Moderate drought**:when growth processes continue at a reduced rate, because the crop cannot extract all the water it needs. Depending on the timing, duration and frequency of occurrence during the crop cycle, the yield reductions can be 30–70%.
+• **Terminal drought**, also called post-flowering drought: a common type of drought occurring either at the end of the rainy season
+or when crops depend on the soil profile moisture. In these situations, the crop faces water limitation during the last stages of its development, usually after flowering and during grain filling.
+• **Intermittent drought**: when there are rain gaps during the regular crop season, leading to periods of water limitations that can be relieved by rainfall or irrigation.
 
 
 
