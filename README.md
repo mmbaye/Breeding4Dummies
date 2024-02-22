@@ -22,7 +22,6 @@ Once a QTL is identified, plant breeders can use this information to develop new
 In summary, a QTL in plant breeding is a specific region on a plant's chromosome associated with a quantitative trait. It serves as a marker that helps plant breeders understand the genetic basis of traits and design breeding strategies to develop plants with desired characteristics.
 
 2. **VPD : Vapor Pressure Deficit**
-  
 VPD is the difference between the amount of moisture in the air (humidity) and the maximum amount of moisture the air can hold at a specific temperature. It's a measure of how dry the air is. Leaf Water: Inside the leaves of plants, there is a continuous flow of water called transpiration. This is similar to how we sweat to cool down; plants transpire to regulate their temperature and transport nutrients.
 Inducing Water Loss: When the VPD is high, meaning the air is dry, it creates a condition where the air is thirsty for moisture. As a result, the air pulls moisture out of the leaves through a process called evaporation. The water from the leaves evaporates into the air to fulfill its moisture needs.
 Drop of Leaf Water: As the moisture evaporates from the leaves, the plant's water content decreases. This leads to a drop in the water pressure inside the leaf cells. To maintain their structure and function, plants need a certain level of water pressure.
