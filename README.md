@@ -23,12 +23,13 @@ In summary, a QTL in plant breeding is a specific region on a plant's chromosome
 
 2. **VPD : Vapor Pressure Deficit**
 VPD is the difference between the amount of moisture in the air (humidity) and the maximum amount of moisture the air can hold at a specific temperature. It's a measure of how dry the air is. Leaf Water: Inside the leaves of plants, there is a continuous flow of water called transpiration. This is similar to how we sweat to cool down; plants transpire to regulate their temperature and transport nutrients.
-Inducing Water Loss: When the VPD is high, meaning the air is dry, it creates a condition where the air is thirsty for moisture. As a result, the air pulls moisture out of the leaves through a process called evaporation. The water from the leaves evaporates into the air to fulfill its moisture needs.
+Inducing Water Loss: When the VPD is high, meaning the air is dry, it creates a condition where the air is thirsty for moisture. As a result, the air pulls moisture out of the leaves through a process called evaporation. The water from the leaves evaporates into the air to fulfil its moisture needs.
 Drop of Leaf Water: As the moisture evaporates from the leaves, the plant's water content decreases. This leads to a drop in the water pressure inside the leaf cells. To maintain their structure and function, plants need a certain level of water pressure.
 Consequences: When the water pressure inside the leaf cells drops, it can negatively affect the plant in several ways. The reduced water pressure can cause the leaves to wilt, become flaccid, or even die. It can also disrupt the plant's ability to transport nutrients efficiently.
 In summary, when the Vapor Pressure Deficit is high, the dry air pulls moisture out of the leaves through evaporation, leading to a drop in leaf water content. This can cause various issues for the plant, including wilting and nutrient transport problems.
 
-
+3. **Agricultural Drought**:
+Agricultural drought in the context of plant breeding refers to a condition where there is a **lack of water available** for crops to grow and develop properly. It occurs when the amount of rainfall or irrigation water is insufficient to meet the water requirements of the plants. This shortage of water can negatively affect the growth, yield, and health of crops, making it difficult for farmers to grow and harvest their crops successfully. Plant breeders work to develop new crop varieties that are more resilient to drought conditions, meaning they can tolerate and survive with less water. By improving the drought tolerance of crops, plant breeders help farmers minimize the negative effects of drought and ensure a more stable food production.
 
 
 
