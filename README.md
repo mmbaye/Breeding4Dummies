@@ -1,4 +1,5 @@
 # Breeding4Dummies
+REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 ## *Introduction to plants breeding concepts for no-breeders*
 
 In this repo, we will explain notions related to plants breeding for no-breeding working. 
@@ -40,7 +41,7 @@ Definition From Vincent Vadez et al 2024.
 
 
 
-REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
+
 
 
 
