@@ -1,0 +1,11 @@
+
+
+# Resume
+
+Le papier de **vincent et al** , examine l'impact de la sécheresse sur la productivité des cultures et les stratégies d'adaptation. Il met en évidence l'importance de caractéristiques physiologiques telles que la **capture et l'utilisation de l'eau, la durée de remplissage des grains et la phénologie des cultures**. Contrairement à l'idée reçue, ces caractéristiques ne garantissent pas systématiquement de meilleures performances en cas de sécheresse, car elles interagissent avec l'environnement et les pratiques agronomiques. Les auteurs mettent en lumière l'utilisation de **modèles de cultures** pour simuler les effets de ces caractéristiques dans des scénarios de sécheresse spécifiques. Ces modèles permettent de guider les décisions en matière de **sélection génétique** et de pratiques agronomiques pour maximiser la productivité des cultures dans des environnements ciblés. En somme, le lien entre les caractéristiques génétiques, les modèles de cultures et les conditions environnementales est crucial pour comprendre et améliorer l'adaptation des cultures à la sécheresse.
+
+Le papier souligne également l'importance de l'**__envirotypage__**, qui consiste à caractériser les **environnements de sécheresse** pour identifier les modèles et la fréquence des stress hydriques. Ces informations sont essentielles pour évaluer l'efficacité des caractéristiques adaptatives des cultures dans des conditions spécifiques de sécheresse. De plus, le document met en avant l'intégration des modèles de cultures et des prédictions génomiques pour mieux comprendre les interactions entre les caractéristiques des plantes et l'environnement et le rendement des cultures. Cette approche permet de prédire les effets des interactions génotype-environnement dans des contextes spécifiques, offrant ainsi des opportunités pour la sélection des caractéristiques adaptatives et l'amélioration des cultures. En conclusion, les auteurs mettent en avant l'importance de prendre en compte l'interaction complexe entre les caractéristiques génétiques, les modèles de cultures et les conditions environnementales pour mieux comprendre et améliorer l'adaptation des cultures à la sécheresse.
+
+
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/tpj.16612?campaign=wolearlyview

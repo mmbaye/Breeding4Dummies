@@ -1,11 +1,20 @@
 # Breeding4Dummies
-this project is inspired by the Valdez et al recent paper for agricultural drought. see the reference below. Some key-definitions of important concepts used in the breeding programme for no-breeders are presented . 
+This project is inspired by the Valdez et al recent paper for agricultural drought. see the reference below. Some key-definitions of important concepts used in the breeding programme for no-breeders are presented . 
 
 
 REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 
 ![](https://github.com/mmbaye/Breeding4Dummies/blob/main/figures/drought.png)
 
+## Summary : Understanding Plant Physiological Traits for Drought Adaptation
+### Physiological Traits Impacting Drought Adaptation
+- **Water Capture**: Influences the plant's ability to obtain water from the environment.
+- **Water Use Efficiency**: Determines how effectively the plant utilizes water for growth.
+- **Water Availability at Key Stages**: Affects the plant's access to water during critical developmental phases.
+- **Transpiration Efficiency**: Reflects the plant's ability to manage water loss through transpiration.
+- **Crop Phenology**: Impacts the plant's developmental stages in relation to water availability.
+
+This presentation will delve into the physiological traits of plants and their role in adapting to drought conditions. The impact of these traits on crop productivity under varying drought scenarios will be explored, shedding light on the complex interactions between genetics, environment, and management practices.
 
 ## *Introduction to plants breeding concepts for no-breeders*
 
