@@ -1,4 +1,7 @@
 # Breeding4Dummies
+this project is inspired by the Valdez et al recent paper for agricultural drought. see the reference below. Some key-definitions of important concepts used in the breeding programme for no-breeders are presented . 
+
+
 REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 ## *Introduction to plants breeding concepts for no-breeders*
 
