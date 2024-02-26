@@ -14,7 +14,7 @@ REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 - **Transpiration Efficiency**: Reflects the plant's ability to manage water loss through transpiration.
 - **Crop Phenology**: Impacts the plant's developmental stages in relation to water availability.
 
-This presentation will delve into the physiological traits of plants and their role in adapting to drought conditions. The impact of these traits on crop productivity under varying drought scenarios will be explored, shedding light on the complex interactions between genetics, environment, and management practices.
+
 
 ## *Introduction to plants breeding concepts for no-breeders*
 
