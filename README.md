@@ -1,5 +1,9 @@
 # Breeding4Dummies
 REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
+
+![](https://github.com/mmbaye/Breeding4Dummies/blob/main/figures/drought.png)
+
+
 ## *Introduction to plants breeding concepts for no-breeders*
 
 In this repo, we will explain notions related to plants breeding for no-breeding working. 
