@@ -40,7 +40,7 @@ Definition From Vincent Vadez et al 2024.
 
 
 
-REFERENCE : ![](https://www.nature.com/articles/s43017-023-00514-w)
+REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 
 
 
