@@ -14,12 +14,12 @@ REFERENCE : https://www.nature.com/articles/s43017-023-00514-w
 ## Summary : Understanding Plant Physiological Traits for Drought Adaptation
 ### Physiological Traits Impacting Drought Adaptation
 
-| **Water Capture**                     | Influences the plant's ability to obtain water from the environment |
+|**Water Capture**                      | Influences the plant's ability to obtain water from the environment |
 | ------------------------------------- | ------------------------------------------------------------ |
 | **Water Use Efficiency**              | Determines how effectively the plant utilizes water for growth |
-| **Water Availability at Key Stages**: | Affects the plant's access to water during critical developmental phases |
+| **Water Availability at Key Stages**  | Affects the plant's access to water during critical developmental phases |
 | **Transpiration Efficiency**          | Reflects the plant's ability to manage water loss through transpiration |
-| **Crop Phenology**:                   | Impacts the plant's developmental stages in relation to water availability |
+| **Crop Phenology**                    | Impacts the plant's developmental stages in relation to water availability |
 
 
 
