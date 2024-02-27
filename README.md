@@ -64,7 +64,6 @@ In summary, when the Vapor Pressure Deficit is high, the dry air pulls moisture 
    - **Moderate drought**:when growth processes continue at a reduced rate, because the crop cannot extract all the water it needs. Depending on the timing, duration and frequency of occurrence during the crop cycle, the yield reductions can be 30–70%.
    - **Terminal drought**, also called post-flowering drought: a common type of drought occurring either at the end of the rainy season or when crops depend on the soil profile moisture. In these situations, the crop faces water limitation during the last stages of its development, usually after flowering and during grain filling.
    - **Intermittent drought**: when there are rain gaps during the regular crop season, leading to periods of water limitations that can be relieved by rainfall or irrigation.
-   - 
 
 
 
