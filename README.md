@@ -1,4 +1,4 @@
-# Breeding Termiologies for No-Breeders
+# Breeding Terminologies for No-Breeders
 
 
 This project is inspired by the Valdez et al recent paper for agricultural drought. see the reference below. Some key-definitions of important concepts used in the breeding programme for no-breeders are presented . 
